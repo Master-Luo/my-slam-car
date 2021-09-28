@@ -1,0 +1,2 @@
+slam_node
+-DCATKIN_DEVEL_PREFIX=/media/monster/学习资料/网课/github repository/slam-car/myslam_/devel -DCMAKE_INSTALL_PREFIX=/media/monster/学习资料/网课/github repository/slam-car/myslam_/install -G Unix Makefiles
